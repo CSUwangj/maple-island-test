@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/maple-island-test/static/css/main.0094af06.css",
+    "main.js": "/maple-island-test/static/js/main.193bef37.js",
+    "static/js/787.c7c83265.chunk.js": "/maple-island-test/static/js/787.c7c83265.chunk.js",
+    "static/media/Inter-italic.var.woff2?v=3.19": "/maple-island-test/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
+    "static/media/Inter-roman.var.woff2?v=3.19": "/maple-island-test/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
+    "index.html": "/maple-island-test/index.html",
+    "static/media/getFetch.cjs": "/maple-island-test/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.0094af06.css.map": "/maple-island-test/static/css/main.0094af06.css.map",
+    "main.193bef37.js.map": "/maple-island-test/static/js/main.193bef37.js.map",
+    "787.c7c83265.chunk.js.map": "/maple-island-test/static/js/787.c7c83265.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0094af06.css",
+    "static/js/main.193bef37.js"
+  ]
+}
